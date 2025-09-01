@@ -13,5 +13,5 @@ To get this cute kitty in your terminal, run the following commands
 mkdir -p ~/.config/fastfetch
 
 # Clone this repository
-git clone https://github.com/ObjectiveVirtualfastfetch-config.git ~/.config/fastfetch
+git clone https://github.com/ObjectiveVirtual/fastfetch-config.git ~/.config/fastfetch
 ```
