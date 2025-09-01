@@ -8,32 +8,31 @@
         "width": 26,
         "padding": {
             "top": 0,
-            "left": 2,
-            "right": 6
+            "left": 1,
+            "right": 1
         }
     },
   "modules": [
     {
         "type": "os",
         "key": "🐧 OS",
-        "keyColor": "magenta"
+        "keyColor": "yellow"
     },
     {
         "type": "packages",
         "key": "📦 Packages",
-        "keyColor": "magenta"
+        "keyColor": "blue"
     },
     {
         "type": "uptime",
-        "key": "🕰️ Uptime",
+        "key": "🕰️  Uptime",
         "keyColor": "magenta"
     },
     {
         "type": "command",
-        "key": "🧔🏻 OS Age",
+        "key": "🧔 OS Age",
         "text": "birth_install=$(stat -c %W /); current=$(date +%s); time_progression=$((current - birth_install)); days_difference=$((time_progression / 86400)); echo $days_difference days",
-        "keyColor": "magenta"
+        "keyColor": "green"
     }
   ]
 }
-
