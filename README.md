@@ -1,5 +1,5 @@
 # Fastfetch config
-This is a fork from TheToxicToast's fastfetch config, I al only going to customize this further.
+This is a fork from TheToxicToast's fastfetch config, I am only going to customize this further nothing else.
 
 ## Installation Instructions
 
