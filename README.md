@@ -1,6 +1,5 @@
-# fastfetch-config
-
-![image](https://i.postimg.cc/pLKZd8T7/image.png)
+# Fastfetch config
+This is a fork from TheToxicToast's fastfetch config, I al only going to customize this further.
 
 ## Installation Instructions
 
@@ -14,5 +13,5 @@ To get this cute kitty in your terminal, run the following commands
 mkdir -p ~/.config/fastfetch
 
 # Clone this repository
-git clone https://github.com/TheToxicToast/fastfetch-config.git ~/.config/fastfetch
+git clone https://github.com/ObjectiveVirtualfastfetch-config.git ~/.config/fastfetch
 ```
